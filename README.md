@@ -11,8 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-## Walk
-`walk`  These packages help add vitality to destinations, and you can use them for anything.
+## Walkint
+`walkint`  These packages help add vitality to destinations, and you can use them for anything.
 
 ### Platform Support
 
@@ -22,13 +22,13 @@ and the Flutter guide for
 
 | Walk Container | Walk TextForm |
 | - |  - |
-| ![Walk Container](gif/1.gif)|  ![Walk TextForm](gif/2.gif) |
+| ![Walk Container](https://github.com/Ayman-Al-Khatib/walking/blob/main/gif/1.gif?raw=true)|  ![Walk TextForm](https://github.com/Ayman-Al-Khatib/walking/blob/main/gif/2.gif?raw=true) |
 
 ### Installation
 Add it as a dependency in their `pubspec.yaml`:
 ```
 dependencies:
-  walking: ^0.0.15
+  walking: ^0.0.2
 ```
 
 ### Usage
