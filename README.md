@@ -20,51 +20,15 @@ and the Flutter guide for
 | :-----: | :-: | :---: | :-----: | :-: | :---: |
 | &#9989;  | &#9989; | &#9989; | &#9989;  | &#9989; | &#9989; |
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Videos</title>
-  <style>
-    table {
-      width: 100%;
-    }
-    td {
-      text-align: center;
-    }
-    video {
-      width: 100%;
-    }
-  </style>
-</head>
-<body>
-  <table>
-    <tr>
-      <td>
-        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/1.mp4" autoplay controls>
-          Your browser does not support the video tag.
-        </video>
-      </td>
-      <td>
-        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/2.mp4" autoplay controls>
-          Your browser does not support the video tag.
-        </video>
-      </td>
-      <td>
-        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/3.mp4" autoplay controls>
-          Your browser does not support the video tag.
-        </video>
-      </td>
-    </tr>
-  </table>
-</body>
-</html>
+| Walk Container | Walk TextForm |
+| - |  - |
+| ![Walk Container](gif/1.gif)|  ![Walk TextForm](gif/2.gif) |
 
 ### Installation
 Add it as a dependency in their `pubspec.yaml`:
 ```
 dependencies:
-  walking: ^0.0.1
+  walking: ^0.0.15
 ```
 
 ### Usage
