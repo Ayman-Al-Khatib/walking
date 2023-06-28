@@ -22,7 +22,7 @@ and the Flutter guide for
 
 | Walk Container | Walk TextForm | Walk TextForm |
 | - | - | - |
-| ![Walk Container](https://github.com/Ayman-Al-Khatib/walking/blob/main/ex/1.mp4)| ![Walk TextForm](https://github.com/Ayman-Al-Khatib/walking/blob/main/ex/2.mp4)| ![Walk TextForm](https://github.com/Ayman-Al-Khatib/walking/blob/main/ex/3.mp4) |
+| ![Walk Container](https://github.com/Ayman-Al-Khatib/walking/blob/main/assets/1.mp4)| ![Walk TextForm](https://github.com/Ayman-Al-Khatib/walking/blob/main/assets/2.mp4)| ![Walk TextForm](https://github.com/Ayman-Al-Khatib/walking/blob/main/assets/3.mp4) |
 
 ### Installation
 Add it as a dependency in their `pubspec.yaml`:
