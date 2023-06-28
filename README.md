@@ -20,15 +20,51 @@ and the Flutter guide for
 | :-----: | :-: | :---: | :-----: | :-: | :---: |
 | &#9989;  | &#9989; | &#9989; | &#9989;  | &#9989; | &#9989; |
 
-| Walk Container | Walk TextForm | Walk TextForm |
-| - | - | - |
-| ![Walk Container](https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/1.mp4)| ![Walk TextForm](https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/2.mp4)| ![Walk TextForm](https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/3.mp4) |
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Videos</title>
+  <style>
+    table {
+      width: 100%;
+    }
+    td {
+      text-align: center;
+    }
+    video {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <td>
+        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/1.mp4" autoplay controls>
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/2.mp4" autoplay controls>
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video src="https://raw.githubusercontent.com/Ayman-Al-Khatib/walking/main/assets/3.mp4" autoplay controls>
+          Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
 
 ### Installation
 Add it as a dependency in their `pubspec.yaml`:
 ```
 dependencies:
-  walking: ^0.0.15
+  walking: ^0.0.1
 ```
 
 ### Usage
