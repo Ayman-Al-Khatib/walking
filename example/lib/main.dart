@@ -5,7 +5,7 @@ import 'package:walking/walk_container.dart';
 
 void main() {
   runApp(const MaterialApp(
-    title: 'ًWalk  Container',
+    title: 'ًWalking',
     home: WalkContainerScerrn(),
   ));
 }

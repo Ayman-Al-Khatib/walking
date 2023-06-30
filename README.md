@@ -28,7 +28,7 @@ and the Flutter guide for
 Add it as a dependency in their `pubspec.yaml`:
 ```
 dependencies:
-  walking: ^0.0.2
+  walking: ^0.0.4
 ```
 
 ### Usage
